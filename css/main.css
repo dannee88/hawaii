@@ -1,0 +1,20 @@
+body{
+	background-color: pink;
+}
+.head{
+	text-align: center;
+	margin-top: 10%;
+	font-size: 120px;
+	font-family: 'Londrina Sketch', cursive;
+	color: yellow;
+}
+
+.hawaii{
+	font-size: 150px;
+	font-family: 'Londrina Outline', cursive;
+	color: white;
+	text-align: center;
+	margin-top:12%;
+	background-image: url(../img/hawaii.gif);
+	
+}
